@@ -4,7 +4,7 @@ package org.dimigo.oop;
 /**
  * <pre>
  * org.dimigo.oop
- * 		|_ Car
+ * 		|_ CarTest
  * 
  * 1.  개요 :
  * 2. 작성일 : 2017. 3. 23.
