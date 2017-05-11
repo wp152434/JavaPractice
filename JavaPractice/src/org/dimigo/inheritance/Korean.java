@@ -12,7 +12,7 @@ public class Korean extends Person {
 	}
 	
 	public void sayBye(){
-		System.out.println("안녕히 계세요v");
+		System.out.println("안녕히 계세요");
 		
 	}
 
