@@ -13,7 +13,7 @@ public class SmartPhoneTest {
 			System.out.println(phone[i]);
 			phone[i].turnOn();
 			phone[i].pay();
-			phone[i].useSpecialFunction(phone[i]);
+			phone[i].useSpecialFunction();
 			phone[i].turnOff();
 		}
 	}
